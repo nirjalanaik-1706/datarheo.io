@@ -1,4 +1,4 @@
-# datarheo.io
+# DataRheo.io
 
 A React and Vite marketing site for Datarheo, focused on data movement, integration, pipelines, and connected systems.
 
